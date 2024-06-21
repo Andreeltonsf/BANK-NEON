@@ -1,6 +1,7 @@
 Landing Page Neon - Projeto CodeBoost 🚀
 
 Este projeto foi desenvolvido na plataforma educacional CodeBoost com o objetivo de aprimorar minhas habilidades em desenvolvimento web e criar uma Landing Page (LP) completa e responsiva. A LP foi inspirada no design do Banco Neon, utilizando HTML, CSS (com animações) e SCSS.
+
 🚀 Tecnologias Utilizadas
 
     HTML: Estruturação da página e organização do conteúdo.
@@ -17,6 +18,7 @@ Este projeto foi desenvolvido na plataforma educacional CodeBoost com o objetivo
 🎨 Design Inspirado no Banco Neon
 
 A Landing Page foi inspirada no design moderno e minimalista do Banco Neon, utilizando cores vibrantes e elementos visuais que transmitem a identidade da marca.
+
 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, pude aprimorar minhas habilidades em:
